@@ -1,0 +1,6 @@
+!List of footprints
+!It is needed for calculating of Cut-off if pattern is  described by PSSM!
+AAAACTCTGTGTGTGTG
+AAAACT
+ACTGTGTGTGTGGTGTGGTGGTG
+GGGGGCCCCTCTG

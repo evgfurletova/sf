@@ -1,0 +1,1 @@
+./sf.bin -p 1 10000 -m 1 5 10 -a Alphabets/Bern/Alpb_4_0.txt

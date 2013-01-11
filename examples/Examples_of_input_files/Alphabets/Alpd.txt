@@ -1,0 +1,17 @@
+! Deterministic hidden markov model
+! type of the model
+-1
+!Alphabet			
+A C G T
+!Number of states		
+3
+!Probability function		
+-probs
+0.28 0.22 0.22 0.28	
+0.25 0 0.5 0.25         
+0.5 0.5 0 0
+!Transition function
+-trans
+1 1 2 2		
+0 -1 1 0		
+0 0 0 -1

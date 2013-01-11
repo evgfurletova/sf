@@ -1,0 +1,7 @@
+! model Bernoulli 
+! order of the model
+0
+! Alphabet				
+A C G T	
+! Distribution of the letters			
+0.25 0.25 0.25 0.25		
