@@ -8,7 +8,7 @@
 
 #include "ov_graf.h"
 
-
+// class for something
 class MinOV_Graf;
 
 typedef struct PrepSK
